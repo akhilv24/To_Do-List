@@ -28,5 +28,3 @@ git clone https://github.com/akhilv24/todo-list.git
 
 # Open the project folder
 cd todo-list
-
-# Open index.html in your browser
